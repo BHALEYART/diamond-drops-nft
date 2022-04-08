@@ -1,0 +1,34 @@
+{
+  "name": "DIAMOND DROP$",
+  "symbol": "Diamond Drops",
+  "description": "A virtual passport for membership privately discounted NFT project mints, as well as exclusive Airdrops! (De-Rug of SolAirdropPass)",
+  "seller_fee_basis_points": 2500,
+  "image": "https://raw.githubusercontent.com/BHALEYART/diamond-drops-nft/main/diamond-drops-image.gif",
+  "external_url": "DIAMOND DROP$",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Membership",
+      "value": "Elite"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/diamond-drops-nft/main/diamond-drops-image.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 80
+      },
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 20
+      }
+    ]
+  }
+}
