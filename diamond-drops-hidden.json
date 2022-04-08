@@ -1,7 +1,7 @@
 {
-  "name": "DIAMOND DROP$",
-  "symbol": "Diamond Drops",
-  "description": "A virtual passport for membership privately discounted NFT project mints, as well as exclusive Airdrops! (De-Rug of SolAirdropPass)",
+  "name": "Diamond Drop$",
+  "symbol": "Dmd Drop$",
+  "description": "A virtual passport for holders to automatically receive whitelist tokens to community curated NFT mints, with some mints discounted for our membership at up to 90% public price. (This NFT is a De-rugged relaunch of the SolAirdropPass project, courtesy of SCUMBAG$ Community.)",
   "seller_fee_basis_points": 2500,
   "image": "https://raw.githubusercontent.com/BHALEYART/diamond-drops-nft/main/diamond-drops-image.gif",
   "external_url": "DIAMOND DROP$",
